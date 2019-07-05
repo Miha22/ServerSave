@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerSaveConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SaveEvery_Template>hh:mm:ss</SaveEvery_Template>
+  <SaveEvery>00:05:00</SaveEvery>
+  <SaveWhere>E:\Program Files (x86)\steam\steamapps\common\Unturned - Copy\Servers\SDG.Unturned.ServerSavedata.directory\Saved_Servers</SaveWhere>
+</ServerSaveConfiguration>
