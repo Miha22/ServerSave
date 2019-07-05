@@ -11,3 +11,10 @@
 /Users/Test/Documents/GitHub/ServerSave/obj/Debug/ServerSave.csproj.CopyComplete
 /Users/Test/Documents/GitHub/ServerSave/obj/Debug/ServerSave.dll
 /Users/Test/Documents/GitHub/ServerSave/obj/Debug/ServerSave.pdb
+E:\Users\Deniel\Documents\GitHub\ServerSave\bin\Debug\ServerSave.dll
+E:\Users\Deniel\Documents\GitHub\ServerSave\bin\Debug\ServerSave.pdb
+E:\Users\Deniel\Documents\GitHub\ServerSave\obj\Debug\ServerSave.csprojAssemblyReference.cache
+E:\Users\Deniel\Documents\GitHub\ServerSave\obj\Debug\ServerSave.csproj.CoreCompileInputs.cache
+E:\Users\Deniel\Documents\GitHub\ServerSave\obj\Debug\ServerSave.csproj.CopyComplete
+E:\Users\Deniel\Documents\GitHub\ServerSave\obj\Debug\ServerSave.dll
+E:\Users\Deniel\Documents\GitHub\ServerSave\obj\Debug\ServerSave.pdb

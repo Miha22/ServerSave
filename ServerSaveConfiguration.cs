@@ -9,7 +9,7 @@ namespace ServerSave
         public string SaveWhere;
         public void LoadDefaults()
         {
-            string path = $@"../../SDG.Unturned.ServerSavedata.directory/Saved_Servers";
+            string path = $@"../{SDG.Unturned.ServerSavedata.directory}/Saved_Servers";
             DirectoryInfo directory = new DirectoryInfo(path);
             if (!directory.Exists)
                 directory.Create();

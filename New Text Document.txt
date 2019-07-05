@@ -1,0 +1,3 @@
+SDG.Unturned.ServerSavedata.directory: /Servers
+
+Configuration.Instance.SaveWhere: E:\Program Files (x86)\steam\steamapps\common\Unturned - Copy\Servers\SDG.Unturned.ServerSavedata.directory\Saved_Servers

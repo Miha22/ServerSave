@@ -21,7 +21,7 @@ namespace ServerSave
             ServerTimer.Start();
             ServerNextSave = NextSave();
             ServerTimer.Elapsed += Time_Elapsed;
-            Logger.Log($"Timer started. Next save: {NextSave().ToShortDateString()}");
+            Logger.Log($"Timer started. Next save: {NextSave().ToShortTimeString()}");
         }
         protected override void Unload()
         {
@@ -31,7 +31,9 @@ namespace ServerSave
         [RocketCommandAlias("ssave")]
         public void Execute(IRocketPlayer caller, params string[] command)
         {
-            SaveServer();
+            //SaveServer();
+            Console.WriteLine($@"SDG.Unturned.ServerSavedata.directory: {SDG.Unturned.ServerSavedata.directory}");
+            Console.WriteLine($@"Configuration.Instance.SaveWhere: {Configuration.Instance.SaveWhere}");
         }
 
         private void Time_Elapsed(object sender, ElapsedEventArgs e)
