@@ -1,0 +1,13 @@
+/Users/Test/Documents/GitHub/ServerSave/bin/Debug/ServerSave.dll
+/Users/Test/Documents/GitHub/ServerSave/bin/Debug/ServerSave.pdb
+/Users/Test/Documents/GitHub/ServerSave/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/Test/Documents/GitHub/ServerSave/bin/Debug/Assembly-CSharp.dll
+/Users/Test/Documents/GitHub/ServerSave/bin/Debug/Rocket.API.dll
+/Users/Test/Documents/GitHub/ServerSave/bin/Debug/Rocket.Core.dll
+/Users/Test/Documents/GitHub/ServerSave/bin/Debug/Rocket.Unturned.dll
+/Users/Test/Documents/GitHub/ServerSave/bin/Debug/UnityEngine.dll
+/Users/Test/Documents/GitHub/ServerSave/obj/Debug/ServerSave.csprojAssemblyReference.cache
+/Users/Test/Documents/GitHub/ServerSave/obj/Debug/ServerSave.csproj.CoreCompileInputs.cache
+/Users/Test/Documents/GitHub/ServerSave/obj/Debug/ServerSave.csproj.CopyComplete
+/Users/Test/Documents/GitHub/ServerSave/obj/Debug/ServerSave.dll
+/Users/Test/Documents/GitHub/ServerSave/obj/Debug/ServerSave.pdb
